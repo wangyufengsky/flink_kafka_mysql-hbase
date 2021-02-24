@@ -1,0 +1,2 @@
+# flink_kafka_mysql-hbase
+以前自己写的一套，从kafka获取数据源，通过flink插入mysql或者hbase，其中mysql使用了自己写的一套分库分表算法，插入速度大概在100000tps左右
